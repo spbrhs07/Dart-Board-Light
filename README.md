@@ -43,3 +43,6 @@ The following list of hardware will also be required:
     https://amzn.to/3weN5zX
 
 After the Fixture is mounted to the wall, remove the screws and mount the wall spacers. You can then install the pegs to hang the light. 
+
+
+https://www.paypal.com/donate/?hosted_button_id=FFAYLDYZJ55FA
