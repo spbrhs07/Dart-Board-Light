@@ -18,7 +18,8 @@ For the wall spacers, you will need to print the following parts:
   -   Wall Spacer x8      
 - Wall Spacer Peg x8  
       
-You will also need to print 4 centering pegs.  
+You will also need to print 4 centering pegs. These are used after the frame is assmbled. Place two pegs opposite of each other so that strings can be tied to them allowing you to find the center of the fixture. Where the strings cross is the center. The fixture can be held into place while the first screws are put into the wall.
+
 The following list of hardware will also be required:  
       
     
@@ -40,3 +41,5 @@ The following list of hardware will also be required:
     
 -   LED Light Strip  
     https://amzn.to/3weN5zX
+
+After the Fixture is mounted to the wall, remove the screws and mount the wall spacers. You can then install the pegs to hang the light. 
